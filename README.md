@@ -1,0 +1,1 @@
+# Walidator-hasla
